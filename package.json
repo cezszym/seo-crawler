@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-tests",
+  "version": "1.0.0",
+  "description": "First try on puppeter tests",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "jest-image-snapshot": "^4.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^5.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "cezszym",
+  "license": "ISC"
+}
