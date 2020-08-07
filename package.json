@@ -2,7 +2,8 @@
   "name": "puppeteer-tests",
   "version": "1.0.0",
   "description": "First try on puppeter tests",
-  "main": "app.js",
+  "main": "index.js",
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
     "jest": "^26.2.2",
